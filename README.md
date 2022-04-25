@@ -1,1 +1,1 @@
-# automacao-de-email
+# Automação de Sistemas e Processos com Python
